@@ -51,6 +51,10 @@ functions["小鑫应用商城"]=function()
   进入子页面("app",{"nil"})
 end
 
+functions["自建代码库(可注册)"]=function()
+  进入子页面("github",{"nil"})
+end
+
 functions["有bug联系作者"]=function()
   联系QQ(2013182991)
   弹出消息("作者QQ:2013182991")
